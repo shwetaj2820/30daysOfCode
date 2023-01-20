@@ -6,3 +6,5 @@ Day1: https://www.hackerrank.com/challenges/30-data-types/problem?isFullScreen=t
 Day2: https://www.hackerrank.com/challenges/30-operators/problem?isFullScreen=true
 
 Day3: https://www.hackerrank.com/challenges/30-conditional-statements/problem?isFullScreen=true
+
+Day4: https://www.hackerrank.com/challenges/30-class-vs-instance/problem?isFullScreen=true

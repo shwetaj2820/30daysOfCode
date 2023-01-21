@@ -8,3 +8,5 @@ Day2: https://www.hackerrank.com/challenges/30-operators/problem?isFullScreen=tr
 Day3: https://www.hackerrank.com/challenges/30-conditional-statements/problem?isFullScreen=true
 
 Day4: https://www.hackerrank.com/challenges/30-class-vs-instance/problem?isFullScreen=true
+
+Day5: https://www.hackerrank.com/challenges/30-loops/problem?isFullScreen=true

@@ -10,3 +10,5 @@ Day3: https://www.hackerrank.com/challenges/30-conditional-statements/problem?is
 Day4: https://www.hackerrank.com/challenges/30-class-vs-instance/problem?isFullScreen=true
 
 Day5: https://www.hackerrank.com/challenges/30-loops/problem?isFullScreen=true
+
+Day6: https://www.hackerrank.com/challenges/30-review-loop/problem?isFullScreen=true

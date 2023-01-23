@@ -12,3 +12,5 @@ Day4: https://www.hackerrank.com/challenges/30-class-vs-instance/problem?isFullS
 Day5: https://www.hackerrank.com/challenges/30-loops/problem?isFullScreen=true
 
 Day6: https://www.hackerrank.com/challenges/30-review-loop/problem?isFullScreen=true
+
+Day7: https://www.hackerrank.com/challenges/30-arrays/problem?isFullScreen=true

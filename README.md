@@ -18,3 +18,5 @@ Day7: https://www.hackerrank.com/challenges/30-arrays/problem?isFullScreen=true
 Day8: https://www.hackerrank.com/challenges/30-dictionaries-and-maps/problem?isFullScreen=true
 
 Day9: https://www.hackerrank.com/challenges/30-recursion/problem?isFullScreen=true
+
+Day10: https://www.hackerrank.com/challenges/30-binary-numbers/problem?isFullScreen=true

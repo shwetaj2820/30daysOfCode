@@ -5,7 +5,7 @@ using namespace std;
 string ltrim(const string &);
 string rtrim(const string &);
 
-
+/*
 string toBinary(int n){
     string bString;
     while(n!=0){
@@ -30,15 +30,32 @@ int countOnes(string bString, int sz){
         }
     }
     return max;
-}
+}*/
 int main()
 {
     string n_temp;
     getline(cin, n_temp);
 
     int n = stoi(ltrim(rtrim(n_temp)));
-    string r = toBinary(n);
-    cout<<countOnes(r, r.length());
+    int count=0, max=0;
+    while(n>0){
+        if(n%2==1){
+            count++;
+        }
+        else{
+            if(count>max){
+                max=count;
+                count=0;
+            }
+        }
+        n=n/2;
+    }
+    
+    if(count>max){
+        max=count;
+    }
+    
+    cout<<max;
     return 0;
 }
 

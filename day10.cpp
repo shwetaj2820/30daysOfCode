@@ -41,23 +41,21 @@ int main()
     while(n>0){
         if(n%2==1){
             count++;
-        }
-        else{
             if(count>max){
                 max=count;
-                count=0;
             }
         }
+        else{
+                count=0;
+            }
+        
         n=n/2;
-    }
-    
-    if(count>max){
-        max=count;
-    }
-    
+        }
     cout<<max;
+    
     return 0;
-}
+    }
+ 
 
 string ltrim(const string &str) {
     string s(str);

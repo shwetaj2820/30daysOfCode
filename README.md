@@ -20,3 +20,5 @@ Day8: https://www.hackerrank.com/challenges/30-dictionaries-and-maps/problem?isF
 Day9: https://www.hackerrank.com/challenges/30-recursion/problem?isFullScreen=true
 
 Day10: https://www.hackerrank.com/challenges/30-binary-numbers/problem?isFullScreen=true
+(caused error- partial test cases run. Second code - all test cases run successfully. 
+Error solved: confusion regarding while loop

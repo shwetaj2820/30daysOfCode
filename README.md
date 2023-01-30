@@ -22,3 +22,5 @@ Day9: https://www.hackerrank.com/challenges/30-recursion/problem?isFullScreen=tr
 Day10: https://www.hackerrank.com/challenges/30-binary-numbers/problem?isFullScreen=true
 (caused error- partial test cases run. Second code - all test cases run successfully. 
 Error solved: confusion regarding while loop
+
+Day 11: https://www.hackerrank.com/challenges/30-2d-arrays/problem?isFullScreen=true

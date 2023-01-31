@@ -24,3 +24,5 @@ Day10: https://www.hackerrank.com/challenges/30-binary-numbers/problem?isFullScr
 Error solved: confusion regarding while loop
 
 Day 11: https://www.hackerrank.com/challenges/30-2d-arrays/problem?isFullScreen=true
+
+Day12: https://www.hackerrank.com/challenges/30-inheritance/problem?isFullScreen=true

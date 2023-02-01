@@ -26,3 +26,5 @@ Error solved: confusion regarding while loop
 Day 11: https://www.hackerrank.com/challenges/30-2d-arrays/problem?isFullScreen=true
 
 Day12: https://www.hackerrank.com/challenges/30-inheritance/problem?isFullScreen=true
+
+Day13: https://www.hackerrank.com/challenges/30-abstract-classes/problem?isFullScreen=true

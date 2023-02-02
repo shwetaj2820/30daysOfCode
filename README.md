@@ -28,3 +28,5 @@ Day 11: https://www.hackerrank.com/challenges/30-2d-arrays/problem?isFullScreen=
 Day12: https://www.hackerrank.com/challenges/30-inheritance/problem?isFullScreen=true
 
 Day13: https://www.hackerrank.com/challenges/30-abstract-classes/problem?isFullScreen=true
+
+Day14: https://www.hackerrank.com/challenges/30-scope/problem?isFullScreen=true

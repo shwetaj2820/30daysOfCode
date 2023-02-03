@@ -30,3 +30,5 @@ Day12: https://www.hackerrank.com/challenges/30-inheritance/problem?isFullScreen
 Day13: https://www.hackerrank.com/challenges/30-abstract-classes/problem?isFullScreen=true
 
 Day14: https://www.hackerrank.com/challenges/30-scope/problem?isFullScreen=true
+
+Day15: https://www.hackerrank.com/challenges/30-linked-list/problem?isFullScreen=true

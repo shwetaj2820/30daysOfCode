@@ -32,3 +32,5 @@ Day13: https://www.hackerrank.com/challenges/30-abstract-classes/problem?isFullS
 Day14: https://www.hackerrank.com/challenges/30-scope/problem?isFullScreen=true
 
 Day15: https://www.hackerrank.com/challenges/30-linked-list/problem?isFullScreen=true
+
+Day16: https://www.hackerrank.com/challenges/30-exceptions-string-to-integer/problem?isFullScreen=true
